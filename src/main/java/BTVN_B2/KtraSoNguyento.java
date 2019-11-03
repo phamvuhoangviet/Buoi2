@@ -1,7 +1,7 @@
 package BTVN_B2;
 
 import java.util.Scanner;
-
+//adasdasdasdasdc
 public class KtraSoNguyento {
     public static void main(String[] args) {
         int a = 0;
